@@ -1,0 +1,17 @@
+C:\Users\Rodrigo\Documents\BIOS\Primero\ASP\Obligatorio\Obligatorio-main\Obligatorio-main\ObligatorioAppWeb\EntidadesComapartidas\bin\Debug\EntidadesComapartidas.dll
+C:\Users\Rodrigo\Documents\BIOS\Primero\ASP\Obligatorio\Obligatorio-main\Obligatorio-main\ObligatorioAppWeb\EntidadesComapartidas\bin\Debug\EntidadesComapartidas.pdb
+C:\Users\Rodrigo\Documents\BIOS\Primero\ASP\Obligatorio\Obligatorio-main\Obligatorio-main\ObligatorioAppWeb\EntidadesComapartidas\obj\Debug\EntidadesComapartidas.dll
+C:\Users\Rodrigo\Documents\BIOS\Primero\ASP\Obligatorio\Obligatorio-main\Obligatorio-main\ObligatorioAppWeb\EntidadesComapartidas\obj\Debug\EntidadesComapartidas.pdb
+C:\Users\Chule\Desktop\Obligatorio\ObligatorioAppWeb\EntidadesComapartidas\bin\Debug\EntidadesComapartidas.dll
+C:\Users\Chule\Desktop\Obligatorio\ObligatorioAppWeb\EntidadesComapartidas\bin\Debug\EntidadesComapartidas.pdb
+C:\Users\Chule\Desktop\Obligatorio\ObligatorioAppWeb\EntidadesComapartidas\obj\Debug\EntidadesComapartidas.dll
+C:\Users\Chule\Desktop\Obligatorio\ObligatorioAppWeb\EntidadesComapartidas\obj\Debug\EntidadesComapartidas.pdb
+C:\Users\Rodrigo\Documents\BIOS\Primero\ASP\Obligatorio\Obligatorio-main\Obligatorio-master\ObligatorioAppWeb\EntidadesComapartidas\bin\Debug\EntidadesComapartidas.dll
+C:\Users\Rodrigo\Documents\BIOS\Primero\ASP\Obligatorio\Obligatorio-main\Obligatorio-master\ObligatorioAppWeb\EntidadesComapartidas\bin\Debug\EntidadesComapartidas.pdb
+C:\Users\Rodrigo\Documents\BIOS\Primero\ASP\Obligatorio\Obligatorio-main\Obligatorio-master\ObligatorioAppWeb\EntidadesComapartidas\obj\Debug\EntidadesComapartidas.dll
+C:\Users\Rodrigo\Documents\BIOS\Primero\ASP\Obligatorio\Obligatorio-main\Obligatorio-master\ObligatorioAppWeb\EntidadesComapartidas\obj\Debug\EntidadesComapartidas.pdb
+C:\Users\Trico\Desktop\Obligatorio\ObligatorioAppWeb\EntidadesComapartidas\bin\Debug\EntidadesComapartidas.dll
+C:\Users\Trico\Desktop\Obligatorio\ObligatorioAppWeb\EntidadesComapartidas\bin\Debug\EntidadesComapartidas.pdb
+C:\Users\Trico\Desktop\Obligatorio\ObligatorioAppWeb\EntidadesComapartidas\obj\Debug\EntidadesComapartidas.dll
+C:\Users\Trico\Desktop\Obligatorio\ObligatorioAppWeb\EntidadesComapartidas\obj\Debug\EntidadesComapartidas.pdb
+C:\Users\Trico\Desktop\Obligatorio\ObligatorioAppWeb\EntidadesComapartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
